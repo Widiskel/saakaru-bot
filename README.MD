@@ -50,7 +50,7 @@ To access the Authorization token required for the `accounts.go` file, follow th
 8. Click on the request to view its details.
 9. In the `response` section, you should see something like this
 
-```
+```json
 {
     "code": 0,
     "data": {
